@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzovilla
 - 👀 I’m interested in web development, data science, api development
-- 🌱 I’m currently learning android studio and kotlin
+- 🌱 I’m currently learning rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
